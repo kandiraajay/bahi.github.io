@@ -1,0 +1,48 @@
+.container{
+  
+    height: 600px;
+    width: 69%;
+    float: left;
+}
+.container1{
+  
+    height: 600px;
+    width: 30%;
+    float: left;
+}
+.home-main{
+background-image: url(./interior.jpg);
+height: 600px;
+width: 100%;   
+background-repeat: no-repeat; 
+background-size: cover;
+}
+
+.container1 img{
+ height: 200px;
+width: 180px;
+margin-top: 135px;
+margin-left: 110px;
+
+}
+.htag{
+    margin-top: 4%;
+    width: 148%;
+    margin-left: 10%;
+    padding-top: 30px;
+}
+
+.about h2{
+
+    /* background-color:chartreuse; */
+    /* height: 10%;
+    width: 47%; */
+    margin-top:-3%;
+    margin-left: 80.5%;
+} 
+
+.phtag{
+    padding-top: 40%;
+    /* background-color: chartreuse; */
+
+}

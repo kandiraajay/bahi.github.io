@@ -1,0 +1,75 @@
+.details-row{
+    display: flex;
+    gap: 1rem;
+    align-items: baseline;
+}
+
+.my-info-container2{
+    padding:2rem;
+    background-color:antiquewhite;
+}
+
+.first-left-div{
+    width:50%;
+    background: rgb(108, 163, 108);
+    padding:1rem;
+    border-radius:1rem;
+    height: fit-content;
+    float: left;
+    font-size: 14px;
+}
+
+.second-reght-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width:50%;
+    gap:1rem;
+}
+
+.resume-view-btn{
+    width:30%;
+    background:rgb(0, 0, 0);
+    padding:1rem;
+    border-radius: 1rem;
+    text-align: center;
+    height: 2rem;
+    color: wheat;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+.resume-download-btn{
+    width:30%;
+    background-color: aqua;
+    padding:1rem;
+    border-radius: 1rem;
+    text-align: center;
+    height: 2rem;
+    font-size: 20px;
+    text-decoration: none;
+    margin-right:15px;
+}
+
+.pic_my{
+    width:20%;
+    
+    border-radius: 16%;
+    border:1px solid;
+    color: rgb(105, 34, 34);
+    margin-top: 46px;
+
+}
+
+.action-btn{
+    /* display: flex; */
+    justify-content: center;
+    gap: 2px;
+    width: 45%;
+    float: right;
+    margin-top: 70px;
+}
+.about1{
+    /* display: flex; */
+    gap:2rem;
+}  
