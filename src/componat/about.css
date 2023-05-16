@@ -6,7 +6,7 @@
 
 .my-info-container2{
     padding:2rem;
-    background-color:antiquewhite;
+
 }
 
 .first-left-div{
@@ -58,6 +58,7 @@
     border:1px solid;
     color: rgb(105, 34, 34);
     margin-top: 46px;
+    background-color: rgb(222, 239, 233);
 
 }
 
@@ -68,8 +69,15 @@
     width: 45%;
     float: right;
     margin-top: 70px;
+    /* background-color: blue; */
+    
 }
 .about1{
     /* display: flex; */
     gap:2rem;
+    /* background-color: blue; */
 }  
+.backimgc{
+    background-color: yellowgreen;
+    height:  fit-content;
+}
