@@ -26,6 +26,7 @@
 import React from "react";
 import "./about.css";
 import MainBackImg from "./img/kk.png";
+import buttonprofile from './img/Ajay_resume.pdf';
 import { Link } from "react-router-dom";
 function about() {
   return (
@@ -70,8 +71,8 @@ function about() {
             </div>
 
             <div className="action-btn">
-              <Link className="resume-view-btn">View Resume</Link>
-              <Link className="resume-download-btn">Download Resume</Link>
+              <Link to= {buttonprofile} target='blank' type='button'downlod='my'className="downlod">Download Resume</Link>
+              <Link className="resume-download-btn">view Resume</Link>
             </div>
           </div>
         </div>
